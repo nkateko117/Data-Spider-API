@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ykRDtKEDxJLNne2LNwyXxedGWuXweTbWa+jSCTRtmEWlmlP06dFHsYnIIcgB+1ew5PCIZa/hez3IowStVZGPA==",
+  "success": true,
+  "projectFilePath": "C:\\Coding Projects\\nkateko117\\Data-Spider-API\\Data Spider API\\Data Spider API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nkateko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nkateko\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nkateko\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nkateko\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nkateko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nkateko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
