@@ -3,12 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Data_Spider_API.DataModels
 {
-    public class Broker
+    public class MarketType
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int BrokerID { get; set; }
-        [Required]
-        public string BrokerName { get; set;} = string.Empty;
+        public int MarketTypeID { get; set; }
+        public string MarketTypeName { get; set; } = string.Empty;
     }
 }

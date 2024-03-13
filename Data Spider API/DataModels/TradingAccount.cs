@@ -5,7 +5,9 @@ namespace Data_Spider_API.DataModels
 {
     public class TradingAccount
     {
-        [Required]
+
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int TradingAccountID { get; set; }
         [Required]
         public double Leverage {  get; set; }
