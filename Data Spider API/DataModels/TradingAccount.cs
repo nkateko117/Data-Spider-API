@@ -11,6 +11,7 @@ namespace Data_Spider_API.DataModels
         public int TradingAccountID { get; set; }
         [Required]
         public double Leverage {  get; set; }
+        public double Balance { get; set; }
 
         [Required]
         [ForeignKey("AppUser")]

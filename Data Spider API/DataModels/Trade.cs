@@ -8,6 +8,7 @@ namespace Data_Spider_API.DataModels
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int TradeID { get; set; }
+        public string Position { get; set; } = string.Empty;
         public double OpeningPrice { get; set; }
         public double ClosingPrice { get; set; }
         public DateTime Time { get; set; }
