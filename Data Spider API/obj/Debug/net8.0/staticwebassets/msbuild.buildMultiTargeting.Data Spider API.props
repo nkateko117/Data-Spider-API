@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Data Spider API.props" />
+</Project>
